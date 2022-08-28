@@ -1,6 +1,8 @@
 assembly = '''
    @123
+   @/hello
    D=A              // D = first number
+   @/asd123
    @R1
    D=D-M;JMP            // D = first number - second number
    @OUTPUT_FIRST
